@@ -1,30 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\akfvh\\Desktop\\\uAC8C\uC784 \uAC1C\uBC1C \uD559\uC2B5\\IDE \uD3F4\uB354\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\",
+  "WorkspaceRootPath": "C:\\Users\\akfvh\\Documents\\GitHub\\04-oop-console-project-akfvhdl321\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF939FDC-EB56-4668-9425-4E175AE4A880}|\uAC8C\uC784\uB9CC\uB4E4\uAE30.csproj|c:\\users\\akfvh\\desktop\\\uAC8C\uC784 \uAC1C\uBC1C \uD559\uC2B5\\ide \uD3F4\uB354\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\utils\\damagecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF939FDC-EB56-4668-9425-4E175AE4A880}|\uAC8C\uC784\uB9CC\uB4E4\uAE30.csproj|c:\\users\\akfvh\\documents\\github\\04-oop-console-project-akfvhdl321\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\utils\\damagecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF939FDC-EB56-4668-9425-4E175AE4A880}|\uAC8C\uC784\uB9CC\uB4E4\uAE30.csproj|solutionrelative:utils\\damagecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF939FDC-EB56-4668-9425-4E175AE4A880}|\uAC8C\uC784\uB9CC\uB4E4\uAE30.csproj|c:\\users\\akfvh\\desktop\\\uAC8C\uC784 \uAC1C\uBC1C \uD559\uC2B5\\ide \uD3F4\uB354\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\utils\\battlelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF939FDC-EB56-4668-9425-4E175AE4A880}|\uAC8C\uC784\uB9CC\uB4E4\uAE30.csproj|solutionrelative:utils\\battlelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF939FDC-EB56-4668-9425-4E175AE4A880}|\uAC8C\uC784\uB9CC\uB4E4\uAE30.csproj|c:\\users\\akfvh\\documents\\github\\04-oop-console-project-akfvhdl321\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\gameobjects\\playercharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF939FDC-EB56-4668-9425-4E175AE4A880}|\uAC8C\uC784\uB9CC\uB4E4\uAE30.csproj|solutionrelative:gameobjects\\playercharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF939FDC-EB56-4668-9425-4E175AE4A880}|\uAC8C\uC784\uB9CC\uB4E4\uAE30.csproj|c:\\users\\akfvh\\desktop\\\uAC8C\uC784 \uAC1C\uBC1C \uD559\uC2B5\\ide \uD3F4\uB354\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\utils\\battler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF939FDC-EB56-4668-9425-4E175AE4A880}|\uAC8C\uC784\uB9CC\uB4E4\uAE30.csproj|c:\\users\\akfvh\\documents\\github\\04-oop-console-project-akfvhdl321\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\gameobjects\\potion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF939FDC-EB56-4668-9425-4E175AE4A880}|\uAC8C\uC784\uB9CC\uB4E4\uAE30.csproj|solutionrelative:gameobjects\\potion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF939FDC-EB56-4668-9425-4E175AE4A880}|\uAC8C\uC784\uB9CC\uB4E4\uAE30.csproj|c:\\users\\akfvh\\documents\\github\\04-oop-console-project-akfvhdl321\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\gameobjects\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF939FDC-EB56-4668-9425-4E175AE4A880}|\uAC8C\uC784\uB9CC\uB4E4\uAE30.csproj|solutionrelative:gameobjects\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF939FDC-EB56-4668-9425-4E175AE4A880}|\uAC8C\uC784\uB9CC\uB4E4\uAE30.csproj|c:\\users\\akfvh\\documents\\github\\04-oop-console-project-akfvhdl321\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\gameobjects\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF939FDC-EB56-4668-9425-4E175AE4A880}|\uAC8C\uC784\uB9CC\uB4E4\uAE30.csproj|solutionrelative:gameobjects\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF939FDC-EB56-4668-9425-4E175AE4A880}|\uAC8C\uC784\uB9CC\uB4E4\uAE30.csproj|c:\\users\\akfvh\\documents\\github\\04-oop-console-project-akfvhdl321\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\scenes\\townscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF939FDC-EB56-4668-9425-4E175AE4A880}|\uAC8C\uC784\uB9CC\uB4E4\uAE30.csproj|solutionrelative:scenes\\townscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF939FDC-EB56-4668-9425-4E175AE4A880}|\uAC8C\uC784\uB9CC\uB4E4\uAE30.csproj|c:\\users\\akfvh\\documents\\github\\04-oop-console-project-akfvhdl321\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\utils\\battler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF939FDC-EB56-4668-9425-4E175AE4A880}|\uAC8C\uC784\uB9CC\uB4E4\uAE30.csproj|solutionrelative:utils\\battler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF939FDC-EB56-4668-9425-4E175AE4A880}|\uAC8C\uC784\uB9CC\uB4E4\uAE30.csproj|c:\\users\\akfvh\\desktop\\\uAC8C\uC784 \uAC1C\uBC1C \uD559\uC2B5\\ide \uD3F4\uB354\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF939FDC-EB56-4668-9425-4E175AE4A880}|\uAC8C\uC784\uB9CC\uB4E4\uAE30.csproj|c:\\users\\akfvh\\documents\\github\\04-oop-console-project-akfvhdl321\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\utils\\battlelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF939FDC-EB56-4668-9425-4E175AE4A880}|\uAC8C\uC784\uB9CC\uB4E4\uAE30.csproj|solutionrelative:utils\\battlelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF939FDC-EB56-4668-9425-4E175AE4A880}|\uAC8C\uC784\uB9CC\uB4E4\uAE30.csproj|c:\\users\\akfvh\\documents\\github\\04-oop-console-project-akfvhdl321\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF939FDC-EB56-4668-9425-4E175AE4A880}|\uAC8C\uC784\uB9CC\uB4E4\uAE30.csproj|solutionrelative:managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF939FDC-EB56-4668-9425-4E175AE4A880}|\uAC8C\uC784\uB9CC\uB4E4\uAE30.csproj|c:\\users\\akfvh\\desktop\\\uAC8C\uC784 \uAC1C\uBC1C \uD559\uC2B5\\ide \uD3F4\uB354\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\scenes\\battlescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF939FDC-EB56-4668-9425-4E175AE4A880}|\uAC8C\uC784\uB9CC\uB4E4\uAE30.csproj|c:\\users\\akfvh\\documents\\github\\04-oop-console-project-akfvhdl321\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\scenes\\battlescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF939FDC-EB56-4668-9425-4E175AE4A880}|\uAC8C\uC784\uB9CC\uB4E4\uAE30.csproj|solutionrelative:scenes\\battlescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF939FDC-EB56-4668-9425-4E175AE4A880}|\uAC8C\uC784\uB9CC\uB4E4\uAE30.csproj|c:\\users\\akfvh\\desktop\\\uAC8C\uC784 \uAC1C\uBC1C \uD559\uC2B5\\ide \uD3F4\uB354\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\scenes\\townscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF939FDC-EB56-4668-9425-4E175AE4A880}|\uAC8C\uC784\uB9CC\uB4E4\uAE30.csproj|solutionrelative:scenes\\townscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,28 +50,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 229,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Potion.cs",
+              "DocumentMoniker": "C:\\Users\\akfvh\\Documents\\GitHub\\04-oop-console-project-akfvhdl321\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\GameObjects\\Potion.cs",
+              "RelativeDocumentMoniker": "GameObjects\\Potion.cs",
+              "ToolTip": "C:\\Users\\akfvh\\Documents\\GitHub\\04-oop-console-project-akfvhdl321\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\GameObjects\\Potion.cs*",
+              "RelativeToolTip": "GameObjects\\Potion.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T06:50:31.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "C:\\Users\\akfvh\\Documents\\GitHub\\04-oop-console-project-akfvhdl321\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\GameObjects\\Monster.cs",
+              "RelativeDocumentMoniker": "GameObjects\\Monster.cs",
+              "ToolTip": "C:\\Users\\akfvh\\Documents\\GitHub\\04-oop-console-project-akfvhdl321\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\GameObjects\\Monster.cs",
+              "RelativeToolTip": "GameObjects\\Monster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T06:45:25.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\akfvh\\Documents\\GitHub\\04-oop-console-project-akfvhdl321\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\GameObjects\\Player.cs",
+              "RelativeDocumentMoniker": "GameObjects\\Player.cs",
+              "ToolTip": "C:\\Users\\akfvh\\Documents\\GitHub\\04-oop-console-project-akfvhdl321\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\GameObjects\\Player.cs",
+              "RelativeToolTip": "GameObjects\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T06:44:52.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerCharacter.cs",
+              "DocumentMoniker": "C:\\Users\\akfvh\\Documents\\GitHub\\04-oop-console-project-akfvhdl321\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\GameObjects\\PlayerCharacter.cs",
+              "RelativeDocumentMoniker": "GameObjects\\PlayerCharacter.cs",
+              "ToolTip": "C:\\Users\\akfvh\\Documents\\GitHub\\04-oop-console-project-akfvhdl321\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\GameObjects\\PlayerCharacter.cs",
+              "RelativeToolTip": "GameObjects\\PlayerCharacter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T06:45:05.97Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "DamageCalculator.cs",
-              "DocumentMoniker": "C:\\Users\\akfvh\\Desktop\\\uAC8C\uC784 \uAC1C\uBC1C \uD559\uC2B5\\IDE \uD3F4\uB354\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\Utils\\DamageCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\akfvh\\Documents\\GitHub\\04-oop-console-project-akfvhdl321\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\Utils\\DamageCalculator.cs",
               "RelativeDocumentMoniker": "Utils\\DamageCalculator.cs",
-              "ToolTip": "C:\\Users\\akfvh\\Desktop\\\uAC8C\uC784 \uAC1C\uBC1C \uD559\uC2B5\\IDE \uD3F4\uB354\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\Utils\\DamageCalculator.cs",
+              "ToolTip": "C:\\Users\\akfvh\\Documents\\GitHub\\04-oop-console-project-akfvhdl321\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\Utils\\DamageCalculator.cs",
               "RelativeToolTip": "Utils\\DamageCalculator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-12T06:25:04.754Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "BattleLog.cs",
-              "DocumentMoniker": "C:\\Users\\akfvh\\Desktop\\\uAC8C\uC784 \uAC1C\uBC1C \uD559\uC2B5\\IDE \uD3F4\uB354\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\Utils\\BattleLog.cs",
+              "DocumentMoniker": "C:\\Users\\akfvh\\Documents\\GitHub\\04-oop-console-project-akfvhdl321\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\Utils\\BattleLog.cs",
               "RelativeDocumentMoniker": "Utils\\BattleLog.cs",
-              "ToolTip": "C:\\Users\\akfvh\\Desktop\\\uAC8C\uC784 \uAC1C\uBC1C \uD559\uC2B5\\IDE \uD3F4\uB354\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\Utils\\BattleLog.cs",
+              "ToolTip": "C:\\Users\\akfvh\\Documents\\GitHub\\04-oop-console-project-akfvhdl321\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\Utils\\BattleLog.cs",
               "RelativeToolTip": "Utils\\BattleLog.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -64,54 +132,53 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Battler.cs",
-              "DocumentMoniker": "C:\\Users\\akfvh\\Desktop\\\uAC8C\uC784 \uAC1C\uBC1C \uD559\uC2B5\\IDE \uD3F4\uB354\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\Utils\\Battler.cs",
+              "DocumentMoniker": "C:\\Users\\akfvh\\Documents\\GitHub\\04-oop-console-project-akfvhdl321\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\Utils\\Battler.cs",
               "RelativeDocumentMoniker": "Utils\\Battler.cs",
-              "ToolTip": "C:\\Users\\akfvh\\Desktop\\\uAC8C\uC784 \uAC1C\uBC1C \uD559\uC2B5\\IDE \uD3F4\uB354\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\Utils\\Battler.cs",
+              "ToolTip": "C:\\Users\\akfvh\\Documents\\GitHub\\04-oop-console-project-akfvhdl321\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\Utils\\Battler.cs",
               "RelativeToolTip": "Utils\\Battler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwCIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-12T06:23:43.214Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "BattleScene.cs",
-              "DocumentMoniker": "C:\\Users\\akfvh\\Desktop\\\uAC8C\uC784 \uAC1C\uBC1C \uD559\uC2B5\\IDE \uD3F4\uB354\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\Scenes\\BattleScene.cs",
+              "DocumentMoniker": "C:\\Users\\akfvh\\Documents\\GitHub\\04-oop-console-project-akfvhdl321\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\Scenes\\BattleScene.cs",
               "RelativeDocumentMoniker": "Scenes\\BattleScene.cs",
-              "ToolTip": "C:\\Users\\akfvh\\Desktop\\\uAC8C\uC784 \uAC1C\uBC1C \uD559\uC2B5\\IDE \uD3F4\uB354\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\Scenes\\BattleScene.cs",
+              "ToolTip": "C:\\Users\\akfvh\\Documents\\GitHub\\04-oop-console-project-akfvhdl321\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\Scenes\\BattleScene.cs",
               "RelativeToolTip": "Scenes\\BattleScene.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T05:29:49.768Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-12T05:29:49.768Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "GameManager.cs",
-              "DocumentMoniker": "C:\\Users\\akfvh\\Desktop\\\uAC8C\uC784 \uAC1C\uBC1C \uD559\uC2B5\\IDE \uD3F4\uB354\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\Managers\\GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\akfvh\\Documents\\GitHub\\04-oop-console-project-akfvhdl321\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\Managers\\GameManager.cs",
               "RelativeDocumentMoniker": "Managers\\GameManager.cs",
-              "ToolTip": "C:\\Users\\akfvh\\Desktop\\\uAC8C\uC784 \uAC1C\uBC1C \uD559\uC2B5\\IDE \uD3F4\uB354\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\Managers\\GameManager.cs",
+              "ToolTip": "C:\\Users\\akfvh\\Documents\\GitHub\\04-oop-console-project-akfvhdl321\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\Managers\\GameManager.cs",
               "RelativeToolTip": "Managers\\GameManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T05:25:21.204Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-12T05:25:21.204Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "TownScene.cs",
-              "DocumentMoniker": "C:\\Users\\akfvh\\Desktop\\\uAC8C\uC784 \uAC1C\uBC1C \uD559\uC2B5\\IDE \uD3F4\uB354\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\Scenes\\TownScene.cs",
+              "DocumentMoniker": "C:\\Users\\akfvh\\Documents\\GitHub\\04-oop-console-project-akfvhdl321\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\Scenes\\TownScene.cs",
               "RelativeDocumentMoniker": "Scenes\\TownScene.cs",
-              "ToolTip": "C:\\Users\\akfvh\\Desktop\\\uAC8C\uC784 \uAC1C\uBC1C \uD559\uC2B5\\IDE \uD3F4\uB354\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\Scenes\\TownScene.cs",
+              "ToolTip": "C:\\Users\\akfvh\\Documents\\GitHub\\04-oop-console-project-akfvhdl321\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\Scenes\\TownScene.cs",
               "RelativeToolTip": "Scenes\\TownScene.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T03:54:28.392Z"
+              "WhenOpened": "2026-01-12T03:54:28.392Z",
+              "EditorCaption": ""
             }
           ]
         }

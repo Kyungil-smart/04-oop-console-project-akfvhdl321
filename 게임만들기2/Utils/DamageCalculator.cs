@@ -15,5 +15,7 @@ public sealed class DamageCalculator
         int baseDamage = Math.Max(1, attacker.Atk - defender.Def);
         int damage = baseDamage + _rng.Next(0, 4);
         return damage;
+
+        
     }
 }

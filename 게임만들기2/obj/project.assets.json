@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\akfvh\\Desktop\\게임 개발 학습\\IDE 폴더\\게임만들기2\\게임만들기.csproj",
+      "projectUniqueName": "C:\\Users\\akfvh\\Documents\\GitHub\\04-oop-console-project-akfvhdl321\\게임만들기2\\게임만들기.csproj",
       "projectName": "게임만들기",
-      "projectPath": "C:\\Users\\akfvh\\Desktop\\게임 개발 학습\\IDE 폴더\\게임만들기2\\게임만들기.csproj",
+      "projectPath": "C:\\Users\\akfvh\\Documents\\GitHub\\04-oop-console-project-akfvhdl321\\게임만들기2\\게임만들기.csproj",
       "packagesPath": "C:\\Users\\akfvh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\akfvh\\Desktop\\게임 개발 학습\\IDE 폴더\\게임만들기2\\obj\\",
+      "outputPath": "C:\\Users\\akfvh\\Documents\\GitHub\\04-oop-console-project-akfvhdl321\\게임만들기2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\akfvh\\AppData\\Roaming\\NuGet\\NuGet.Config",

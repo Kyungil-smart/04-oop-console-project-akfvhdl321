@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("게임만들기")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22a7a8ab57a6e47d70e9315e2919b6ef2b22df85")]
 [assembly: System.Reflection.AssemblyProductAttribute("게임만들기")]
 [assembly: System.Reflection.AssemblyTitleAttribute("게임만들기")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

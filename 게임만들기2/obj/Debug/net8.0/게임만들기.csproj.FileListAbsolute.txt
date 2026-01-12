@@ -26,3 +26,18 @@ C:\Users\akfvh\Desktop\게임 개발 학습\IDE 폴더\게임만들기2\obj\Debu
 C:\Users\akfvh\Desktop\게임 개발 학습\IDE 폴더\게임만들기2\obj\Debug\net8.0\게임만들기.pdb
 C:\Users\akfvh\Desktop\게임 개발 학습\IDE 폴더\게임만들기2\obj\Debug\net8.0\게임만들기.genruntimeconfig.cache
 C:\Users\akfvh\Desktop\게임 개발 학습\IDE 폴더\게임만들기2\obj\Debug\net8.0\ref\게임만들기.dll
+C:\Users\akfvh\Documents\GitHub\04-oop-console-project-akfvhdl321\게임만들기2\bin\Debug\net8.0\게임만들기.exe
+C:\Users\akfvh\Documents\GitHub\04-oop-console-project-akfvhdl321\게임만들기2\bin\Debug\net8.0\게임만들기.deps.json
+C:\Users\akfvh\Documents\GitHub\04-oop-console-project-akfvhdl321\게임만들기2\bin\Debug\net8.0\게임만들기.runtimeconfig.json
+C:\Users\akfvh\Documents\GitHub\04-oop-console-project-akfvhdl321\게임만들기2\bin\Debug\net8.0\게임만들기.dll
+C:\Users\akfvh\Documents\GitHub\04-oop-console-project-akfvhdl321\게임만들기2\bin\Debug\net8.0\게임만들기.pdb
+C:\Users\akfvh\Documents\GitHub\04-oop-console-project-akfvhdl321\게임만들기2\obj\Debug\net8.0\게임만들기.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akfvh\Documents\GitHub\04-oop-console-project-akfvhdl321\게임만들기2\obj\Debug\net8.0\게임만들기.AssemblyInfoInputs.cache
+C:\Users\akfvh\Documents\GitHub\04-oop-console-project-akfvhdl321\게임만들기2\obj\Debug\net8.0\게임만들기.AssemblyInfo.cs
+C:\Users\akfvh\Documents\GitHub\04-oop-console-project-akfvhdl321\게임만들기2\obj\Debug\net8.0\게임만들기.csproj.CoreCompileInputs.cache
+C:\Users\akfvh\Documents\GitHub\04-oop-console-project-akfvhdl321\게임만들기2\obj\Debug\net8.0\게임만들기.sourcelink.json
+C:\Users\akfvh\Documents\GitHub\04-oop-console-project-akfvhdl321\게임만들기2\obj\Debug\net8.0\게임만들기.dll
+C:\Users\akfvh\Documents\GitHub\04-oop-console-project-akfvhdl321\게임만들기2\obj\Debug\net8.0\refint\게임만들기.dll
+C:\Users\akfvh\Documents\GitHub\04-oop-console-project-akfvhdl321\게임만들기2\obj\Debug\net8.0\게임만들기.pdb
+C:\Users\akfvh\Documents\GitHub\04-oop-console-project-akfvhdl321\게임만들기2\obj\Debug\net8.0\게임만들기.genruntimeconfig.cache
+C:\Users\akfvh\Documents\GitHub\04-oop-console-project-akfvhdl321\게임만들기2\obj\Debug\net8.0\ref\게임만들기.dll

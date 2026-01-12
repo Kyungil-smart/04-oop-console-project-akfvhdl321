@@ -6,7 +6,7 @@ public class TownScene : Scene
     private PlayerCharacter _player;
     private ConsoleKey lastKey = ConsoleKey.None;
 
-    // ✅ GameManager에서 요구하는 생성자
+    
     public TownScene(PlayerCharacter player)
     {
         _player = player;
@@ -19,8 +19,7 @@ public class TownScene : Scene
 
     public override void Update()
     {
-        // ⚠️ InputManager를 이미 쓰고 있다면
-        // Console.ReadKey는 여기서 쓰지 않는다
+        _player.Update();
 
         if (InputManager.GetKey(ConsoleKey.Enter))
         {
@@ -30,12 +29,14 @@ public class TownScene : Scene
 
     public override void Render()
     {
+        Console.Clear();
+
         Console.WriteLine("=== 마을 ===");
-        Console.WriteLine();
         Console.WriteLine($"플레이어 이름 : {_player.Name}");
-        Console.WriteLine($"마지막 키 : {lastKey}");
         Console.WriteLine();
         Console.WriteLine("Enter : 전투 진입");
+
+        _player.Render(); // ⭐ 캐릭터 직접 출력
     }
 
     public override void Exit()
