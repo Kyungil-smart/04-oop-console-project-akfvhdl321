@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akfvh\\Desktop\\\uAC8C\uC784 \uAC1C\uBC1C \uD559\uC2B5\\IDE \uD3F4\uB354\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF939FDC-EB56-4668-9425-4E175AE4A880}|\uAC8C\uC784\uB9CC\uB4E4\uAE30.csproj|c:\\users\\akfvh\\desktop\\\uAC8C\uC784 \uAC1C\uBC1C \uD559\uC2B5\\ide \uD3F4\uB354\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\utils\\damagecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF939FDC-EB56-4668-9425-4E175AE4A880}|\uAC8C\uC784\uB9CC\uB4E4\uAE30.csproj|solutionrelative:utils\\damagecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF939FDC-EB56-4668-9425-4E175AE4A880}|\uAC8C\uC784\uB9CC\uB4E4\uAE30.csproj|c:\\users\\akfvh\\desktop\\\uAC8C\uC784 \uAC1C\uBC1C \uD559\uC2B5\\ide \uD3F4\uB354\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\utils\\battlelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF939FDC-EB56-4668-9425-4E175AE4A880}|\uAC8C\uC784\uB9CC\uB4E4\uAE30.csproj|solutionrelative:utils\\battlelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF939FDC-EB56-4668-9425-4E175AE4A880}|\uAC8C\uC784\uB9CC\uB4E4\uAE30.csproj|c:\\users\\akfvh\\desktop\\\uAC8C\uC784 \uAC1C\uBC1C \uD559\uC2B5\\ide \uD3F4\uB354\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\utils\\battler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF939FDC-EB56-4668-9425-4E175AE4A880}|\uAC8C\uC784\uB9CC\uB4E4\uAE30.csproj|solutionrelative:utils\\battler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF939FDC-EB56-4668-9425-4E175AE4A880}|\uAC8C\uC784\uB9CC\uB4E4\uAE30.csproj|c:\\users\\akfvh\\desktop\\\uAC8C\uC784 \uAC1C\uBC1C \uD559\uC2B5\\ide \uD3F4\uB354\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF939FDC-EB56-4668-9425-4E175AE4A880}|\uAC8C\uC784\uB9CC\uB4E4\uAE30.csproj|solutionrelative:managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF939FDC-EB56-4668-9425-4E175AE4A880}|\uAC8C\uC784\uB9CC\uB4E4\uAE30.csproj|c:\\users\\akfvh\\desktop\\\uAC8C\uC784 \uAC1C\uBC1C \uD559\uC2B5\\ide \uD3F4\uB354\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\scenes\\battlescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF939FDC-EB56-4668-9425-4E175AE4A880}|\uAC8C\uC784\uB9CC\uB4E4\uAE30.csproj|solutionrelative:scenes\\battlescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF939FDC-EB56-4668-9425-4E175AE4A880}|\uAC8C\uC784\uB9CC\uB4E4\uAE30.csproj|c:\\users\\akfvh\\desktop\\\uAC8C\uC784 \uAC1C\uBC1C \uD559\uC2B5\\ide \uD3F4\uB354\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\scenes\\townscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF939FDC-EB56-4668-9425-4E175AE4A880}|\uAC8C\uC784\uB9CC\uB4E4\uAE30.csproj|solutionrelative:scenes\\townscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 229,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DamageCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\akfvh\\Desktop\\\uAC8C\uC784 \uAC1C\uBC1C \uD559\uC2B5\\IDE \uD3F4\uB354\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\Utils\\DamageCalculator.cs",
+              "RelativeDocumentMoniker": "Utils\\DamageCalculator.cs",
+              "ToolTip": "C:\\Users\\akfvh\\Desktop\\\uAC8C\uC784 \uAC1C\uBC1C \uD559\uC2B5\\IDE \uD3F4\uB354\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\Utils\\DamageCalculator.cs*",
+              "RelativeToolTip": "Utils\\DamageCalculator.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T06:25:04.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BattleLog.cs",
+              "DocumentMoniker": "C:\\Users\\akfvh\\Desktop\\\uAC8C\uC784 \uAC1C\uBC1C \uD559\uC2B5\\IDE \uD3F4\uB354\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\Utils\\BattleLog.cs",
+              "RelativeDocumentMoniker": "Utils\\BattleLog.cs",
+              "ToolTip": "C:\\Users\\akfvh\\Desktop\\\uAC8C\uC784 \uAC1C\uBC1C \uD559\uC2B5\\IDE \uD3F4\uB354\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\Utils\\BattleLog.cs*",
+              "RelativeToolTip": "Utils\\BattleLog.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T06:24:29.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Battler.cs",
+              "DocumentMoniker": "C:\\Users\\akfvh\\Desktop\\\uAC8C\uC784 \uAC1C\uBC1C \uD559\uC2B5\\IDE \uD3F4\uB354\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\Utils\\Battler.cs",
+              "RelativeDocumentMoniker": "Utils\\Battler.cs",
+              "ToolTip": "C:\\Users\\akfvh\\Desktop\\\uAC8C\uC784 \uAC1C\uBC1C \uD559\uC2B5\\IDE \uD3F4\uB354\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\Utils\\Battler.cs*",
+              "RelativeToolTip": "Utils\\Battler.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T06:23:43.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BattleScene.cs",
+              "DocumentMoniker": "C:\\Users\\akfvh\\Desktop\\\uAC8C\uC784 \uAC1C\uBC1C \uD559\uC2B5\\IDE \uD3F4\uB354\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\Scenes\\BattleScene.cs",
+              "RelativeDocumentMoniker": "Scenes\\BattleScene.cs",
+              "ToolTip": "C:\\Users\\akfvh\\Desktop\\\uAC8C\uC784 \uAC1C\uBC1C \uD559\uC2B5\\IDE \uD3F4\uB354\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\Scenes\\BattleScene.cs*",
+              "RelativeToolTip": "Scenes\\BattleScene.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T05:29:49.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\akfvh\\Desktop\\\uAC8C\uC784 \uAC1C\uBC1C \uD559\uC2B5\\IDE \uD3F4\uB354\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\Managers\\GameManager.cs",
+              "RelativeDocumentMoniker": "Managers\\GameManager.cs",
+              "ToolTip": "C:\\Users\\akfvh\\Desktop\\\uAC8C\uC784 \uAC1C\uBC1C \uD559\uC2B5\\IDE \uD3F4\uB354\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\Managers\\GameManager.cs",
+              "RelativeToolTip": "Managers\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T05:25:21.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TownScene.cs",
+              "DocumentMoniker": "C:\\Users\\akfvh\\Desktop\\\uAC8C\uC784 \uAC1C\uBC1C \uD559\uC2B5\\IDE \uD3F4\uB354\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\Scenes\\TownScene.cs",
+              "RelativeDocumentMoniker": "Scenes\\TownScene.cs",
+              "ToolTip": "C:\\Users\\akfvh\\Desktop\\\uAC8C\uC784 \uAC1C\uBC1C \uD559\uC2B5\\IDE \uD3F4\uB354\\\uAC8C\uC784\uB9CC\uB4E4\uAE302\\Scenes\\TownScene.cs",
+              "RelativeToolTip": "Scenes\\TownScene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T03:54:28.392Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
